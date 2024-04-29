@@ -1,0 +1,21 @@
+p {
+    font-family: "Inter", sans-serif;
+}
+
+h1 {
+    font-family: "Kaisei Decol", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-shadow: 0 1px 4px #8f8f8f;
+}
+
+tr {
+    font-family: "Inter", sans-serif;
+    text-shadow: 0 1px 4px #8f8f8f;
+}
+
+#footer {
+    font-weight: bold;
+    font-size: small;
+    text-shadow: 0 1px 4px #8f8f8f;
+}
